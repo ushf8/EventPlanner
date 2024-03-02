@@ -1,0 +1,1 @@
+EventPlanner is a comprehensive event management tool that enables users to plan, organize, and manage all aspects of an event, from invitations and RSVPs to venue selection and budget tracking.
